@@ -148,6 +148,39 @@ To examine how structural features vary across different house age groups.
 | 🗄️ MySQL (Optional) | Data Storage |
 | 📄 CSV Dataset | Data Source |
 
+
+---
+
+# 🚀 How to Use  
+
+1️⃣ Download dataset  
+2️⃣ Open Tableau Desktop/Public  
+3️⃣ Connect to dataset  
+4️⃣ Load calculated fields  
+5️⃣ Create visualizations  
+6️⃣ Build dashboard  
+
+---
+
+# 📌 Future Enhancements  
+
+🚀 Predictive pricing model  
+🚀 Machine learning integration  
+🚀 Geographic heatmap analysis  
+🚀 Time-series trend forecasting  
+🚀 Real-time housing market updates  
+
+---
+```bash
+git clone https://github.com/your-username/Civil-Engineering-Insight-Studio.git
+
+# ⭐ Conclusion  
+
+This Tableau dashboard provides a comprehensive visualization of housing market dynamics, enabling stakeholders to interpret sales trends, renovation impacts, and structural feature variations effectively.
+
+---
+
+### 🌟 If you find this project helpful, give it a star!
 ---
 
 # 🧮 Key Calculations Used in Tableau  

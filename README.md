@@ -172,7 +172,7 @@ To examine how structural features vary across different house age groups.
 
 ---
 ```bash
-git clone https://github.com/your-username/Civil-Engineering-Insight-Studio.git
+git clone https://github.com/VijayaLakshmi-Maragani/Visualizing-Housing-Market-Trends-An-Analysis-of-Sale-Prices-and-Features-using-Tableau
 
 # ⭐ Conclusion  
 
